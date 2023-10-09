@@ -1,0 +1,32 @@
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dto\bin\Debug\net6.0\Dto.deps.json
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dto\bin\Debug\net6.0\Dto.runtimeconfig.json
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dto\bin\Debug\net6.0\Dto.dll
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dto\bin\Debug\net6.0\Dto.pdb
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dto\obj\Debug\net6.0\Dto.csproj.AssemblyReference.cache
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dto\obj\Debug\net6.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dto\obj\Debug\net6.0\Dto.AssemblyInfoInputs.cache
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dto\obj\Debug\net6.0\Dto.AssemblyInfo.cs
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dto\obj\Debug\net6.0\Dto.csproj.CoreCompileInputs.cache
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dto\obj\Debug\net6.0\Dto.dll
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dto\obj\Debug\net6.0\refint\Dto.dll
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dto\obj\Debug\net6.0\Dto.pdb
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dto\obj\Debug\net6.0\Dto.genruntimeconfig.cache
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dto\obj\Debug\net6.0\ref\Dto.dll
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dto\bin\Debug\net6.0\Entity.dll
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dto\bin\Debug\net6.0\Entity.pdb
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dto\obj\Debug\net6.0\Dto.csproj.CopyComplete
+D:\הורדות 2\Ayalla_Project\Dto\bin\Debug\net6.0\Dto.deps.json
+D:\הורדות 2\Ayalla_Project\Dto\bin\Debug\net6.0\Dto.dll
+D:\הורדות 2\Ayalla_Project\Dto\bin\Debug\net6.0\Dto.pdb
+D:\הורדות 2\Ayalla_Project\Dto\bin\Debug\net6.0\Entity.dll
+D:\הורדות 2\Ayalla_Project\Dto\bin\Debug\net6.0\Entity.pdb
+D:\הורדות 2\Ayalla_Project\Dto\obj\Debug\net6.0\Dto.csproj.AssemblyReference.cache
+D:\הורדות 2\Ayalla_Project\Dto\obj\Debug\net6.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\הורדות 2\Ayalla_Project\Dto\obj\Debug\net6.0\Dto.AssemblyInfoInputs.cache
+D:\הורדות 2\Ayalla_Project\Dto\obj\Debug\net6.0\Dto.AssemblyInfo.cs
+D:\הורדות 2\Ayalla_Project\Dto\obj\Debug\net6.0\Dto.csproj.CoreCompileInputs.cache
+D:\הורדות 2\Ayalla_Project\Dto\obj\Debug\net6.0\Dto.csproj.CopyComplete
+D:\הורדות 2\Ayalla_Project\Dto\obj\Debug\net6.0\Dto.dll
+D:\הורדות 2\Ayalla_Project\Dto\obj\Debug\net6.0\refint\Dto.dll
+D:\הורדות 2\Ayalla_Project\Dto\obj\Debug\net6.0\Dto.pdb
+D:\הורדות 2\Ayalla_Project\Dto\obj\Debug\net6.0\ref\Dto.dll

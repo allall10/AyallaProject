@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "gDO56SSZUj1zIT5Da9CRKxHvAE+IB0D16dYtyeu9gLc=",
+  "Source": "projectEfratNoa",
+  "BasePath": "_content/projectEfratNoa",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "projectEfratNoa\\wwwroot",
+      "Source": "projectEfratNoa",
+      "ContentRoot": "Z:\\פרויקט למציאת עבודה\\projectEfratNoa\\projectEfratNoa\\wwwroot\\",
+      "BasePath": "_content/projectEfratNoa",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

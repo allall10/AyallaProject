@@ -1,0 +1,27 @@
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dal\bin\Debug\net6.0\Dal.deps.json
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dal\bin\Debug\net6.0\Dal.runtimeconfig.json
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dal\bin\Debug\net6.0\Dal.dll
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dal\bin\Debug\net6.0\Dal.pdb
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dal\obj\Debug\net6.0\Dal.dll
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dal\obj\Debug\net6.0\refint\Dal.dll
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dal\obj\Debug\net6.0\Dal.pdb
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dal\obj\Debug\net6.0\Dal.genruntimeconfig.cache
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dal\obj\Debug\net6.0\ref\Dal.dll
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dal\bin\Debug\net6.0\Entity.dll
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dal\bin\Debug\net6.0\Entity.pdb
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dal\bin\Debug\net6.0\Dto.dll
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Dal\bin\Debug\net6.0\Dto.pdb
+D:\הורדות 2\Ayalla_Project\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+D:\הורדות 2\Ayalla_Project\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\הורדות 2\Ayalla_Project\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+D:\הורדות 2\Ayalla_Project\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+D:\הורדות 2\Ayalla_Project\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+D:\הורדות 2\Ayalla_Project\Dal\obj\Debug\net6.0\Dal.dll
+D:\הורדות 2\Ayalla_Project\Dal\obj\Debug\net6.0\refint\Dal.dll
+D:\הורדות 2\Ayalla_Project\Dal\obj\Debug\net6.0\Dal.pdb

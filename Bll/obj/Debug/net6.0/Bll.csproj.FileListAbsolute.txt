@@ -1,0 +1,29 @@
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Bll\bin\Debug\net6.0\Bll.deps.json
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Bll\bin\Debug\net6.0\Bll.runtimeconfig.json
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Bll\bin\Debug\net6.0\Bll.dll
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Bll\bin\Debug\net6.0\Bll.pdb
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Bll\obj\Debug\net6.0\Bll.csproj.AssemblyReference.cache
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Bll\obj\Debug\net6.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Bll\obj\Debug\net6.0\Bll.AssemblyInfoInputs.cache
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Bll\obj\Debug\net6.0\Bll.AssemblyInfo.cs
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Bll\obj\Debug\net6.0\Bll.csproj.CoreCompileInputs.cache
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Bll\obj\Debug\net6.0\Bll.dll
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Bll\obj\Debug\net6.0\refint\Bll.dll
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Bll\obj\Debug\net6.0\Bll.pdb
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Bll\obj\Debug\net6.0\Bll.genruntimeconfig.cache
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Bll\obj\Debug\net6.0\ref\Bll.dll
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Bll\bin\Debug\net6.0\Dal.dll
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Bll\bin\Debug\net6.0\Dto.dll
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Bll\bin\Debug\net6.0\Entity.dll
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Bll\bin\Debug\net6.0\Dal.pdb
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Bll\bin\Debug\net6.0\Dto.pdb
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Bll\bin\Debug\net6.0\Entity.pdb
+Z:\פרויקט למציאת עבודה\projectEfratNoa\Bll\obj\Debug\net6.0\Bll.csproj.CopyComplete
+D:\הורדות 2\Ayalla_Project\Bll\obj\Debug\net6.0\Bll.csproj.AssemblyReference.cache
+D:\הורדות 2\Ayalla_Project\Bll\obj\Debug\net6.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\הורדות 2\Ayalla_Project\Bll\obj\Debug\net6.0\Bll.AssemblyInfoInputs.cache
+D:\הורדות 2\Ayalla_Project\Bll\obj\Debug\net6.0\Bll.AssemblyInfo.cs
+D:\הורדות 2\Ayalla_Project\Bll\obj\Debug\net6.0\Bll.csproj.CoreCompileInputs.cache
+D:\הורדות 2\Ayalla_Project\Bll\obj\Debug\net6.0\Bll.dll
+D:\הורדות 2\Ayalla_Project\Bll\obj\Debug\net6.0\refint\Bll.dll
+D:\הורדות 2\Ayalla_Project\Bll\obj\Debug\net6.0\Bll.pdb
